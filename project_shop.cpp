@@ -1,3 +1,8 @@
+/*
+Atividade de Programação básica. 
+Código de 12/2020, fazer auterações necessárias. 
+*/
+
 #include <iostream> 
 #include <fstream>
  
